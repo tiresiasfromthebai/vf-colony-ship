@@ -6,7 +6,7 @@ La version 1.0 couvre **le jeu entier** : plus de 22 000 textes, de la Fosse jus
 
 ## Téléchargement
 
-Dans l'onglet [Releases](../../releases), l'archive `VF_Colony_Ship_<version>.zip` (1,6 Mo) contient un seul fichier de jeu et un LISEZMOI. Elle ne contient aucun script ni exécutable. La même archive est publiée sur Nexus Mods.
+Dans l'onglet [Releases](../../releases), l'archive `VF_Colony_Ship_<version>.zip` (1,6 Mo) contient un seul fichier de jeu et un LISEZMOI. Elle ne contient aucun script ni exécutable. La même archive est publiée sur [Nexus Mods](https://www.nexusmods.com/colonyshipapostearthrpg/mods/7).
 
 ## Installation
 
