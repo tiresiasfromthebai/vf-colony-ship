@@ -20,6 +20,8 @@ Pour désinstaller, supprimez ce fichier.
 
 - Vos **sauvegardes ne sont pas touchées** : une partie en cours se poursuit en français.
 - Après une mise à jour du jeu, la VF continue de fonctionner. Seuls les textes modifiés par la mise à jour repassent en anglais, en attendant une nouvelle version.
+- Construite sur la version actuelle du jeu (Steam, build 25062111) : inutile de revenir à une ancienne version via « previous_versions ».
+- Si vous aviez installé une autre traduction française (par exemple `pakchunk99-FrenchTranslation.pak`), supprimez-la pour éviter les mélanges.
 - Le titre et les boutons HÉROS et OUTSIDER du choix de difficulté sont des images. Ils restent en français même si vous repassez le jeu en anglais.
 
 ## Choix de traduction
